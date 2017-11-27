@@ -1,0 +1,15 @@
+step one : drop the database called e-library in your phpmyadmin.
+
+step two: after downloading the the final project from github, unzip it and open e-library.sql
+find the database name  as e-library
+
+step three: create a new database called e-libary in phpmyadmin
+
+step four: upload e-library.sql
+
+step five: after unzipping the folder, open it and rename it to the buk_e-libary 
+and take the buk_e-libary folder to htodcs
+
+step six: run the project in your browser.
+
+good luck
